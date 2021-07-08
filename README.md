@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 - :telescope: I’m currently working on Javascript and PHP
 - :seedling: I’m currently learning everything I can find
-- :mailbox: How to reach me: [Twitter](https://twitter.com/hicham-elkamouni), [LinkedIn](https://www.linkedin.com/in/oussama-filani-6b3432153)
+- :mailbox: How to reach me: [Twitter](https://twitter.com/), [LinkedIn](https://www.linkedin.com/in/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hicham-elkamouni&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hicham-elkamouni&layout=compact)](https://github.com/hicham-elkamouni)
